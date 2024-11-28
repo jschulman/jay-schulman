@@ -1,0 +1,36 @@
+- name: Blockchain Notes
+  url: https://blockchainjay.org
+  description: Notes on blockchain technology, bitcoin, and ethereum.
+  status: ongoing
+  tags:
+    - Blog
+  icon: blog
+  image: images/blog.jpg
+
+- name: Make a jAI NFT
+  url: https://nft.blockchainjay.org
+  description: Create an AI version of Jay and mint it as an NFT on Base.
+  status: live
+  tags:
+    - Base
+    - AI
+  icon: github
+  image: images/jai.jpg
+
+- name: Blockchain Learning Path
+  url: https://realblockchain.net
+  description: A comprehensive learning path for blockchain technology.
+  status: in progress
+  tags:
+    - Next.js
+  icon: github
+  image: images/learn.jpg
+
+- name: Building a Life and Career in Security
+  url: https://buildingalifeandcareerinsecurity.com
+  description: A guide to building a career in information security.
+  status: live
+  tags:
+    - Book
+  icon: book
+  image: images/project.jpg

@@ -1,0 +1,28 @@
+- profile:
+  initials: JSS
+  name: Jay Schulman
+  profession: Blockchain Principal
+  image: images/profile.jpg
+  location: Chicago, USA
+  relocation: false
+  company: RSM US LLP
+  for_hire: true
+  focus: Disrupting accounting 📒 Innovating financial services 🦸
+  focus_url: https://blockchainjay.org
+  about: |
+    Bringing together all of the services across RSM including Audit, Tax, and Consulting, Jay leads the firm’s capability in addressing both enterprise blockchain technology and the adoption of digital assets such as bitcoin.
+    
+    With 20 years’ experience in information security and technology innovation, Jay helps clients think through the overall risk of adopting blockchain and digital assets and how to mitigate those risks through operational security and proper implementation of the technology.
+  skills:
+    - Blockchain
+    - Digital Assets
+    - Information Security
+  tools:
+    - PowerPoint
+    - Bitcoin
+    - Ethereum
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

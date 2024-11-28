@@ -11,5 +11,7 @@
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "name": "jay-schulman",
+  "author": "Jay <github@schl.mn>"
 }
